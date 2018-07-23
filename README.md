@@ -7,3 +7,4 @@
     - git clone https://github.com/stevemcd87/full-backend.git
     - cd full-backend
     - nodemon
+  - Please make sure to do the steps in the [full-frontend](https://github.com/stevemcd87/full-frontend.git)
